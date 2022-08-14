@@ -32,11 +32,8 @@ a:hover, a:active {
 </style>
 </head>
 <body>
-
-
-<p>Hire Us Through</p>
+   <p><b>Hire Us Through</b></p>
 <a href="https://www.upwork.com/agencies/~012c21b2d3b1fe415f" target="_blank">Upwork</a>
-
 </body>
 </html>
 
