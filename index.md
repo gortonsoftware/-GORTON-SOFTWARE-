@@ -13,6 +13,6 @@ integrating multiple on-premises as well cloud data sources using standard, cust
 <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
 <script type="IN/FollowCompany" data-id="80540644" data-counter="bottom"></script>
 
-<p><b>Hire Us Through</b></p>
-<a href="https://www.upwork.com/agencies/~012c21b2d3b1fe415f" style="color: #00FF00 target="_blank">Upwork</a>
+⚡ Hire Us Through
+<a href="https://www.upwork.com/agencies/~012c21b2d3b1fe415f" target="_blank">Upwork</a>
 
