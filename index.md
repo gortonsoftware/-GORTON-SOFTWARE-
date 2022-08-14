@@ -1,6 +1,6 @@
 ## Gorton Software
 
-⚡ We're your Data Analytics partner. 
+⚡ We're your all-season Data Analytics partner. 
 
 ⚡ We're a Team of Data Analytics Consultants with 10+ years of industry experience working on data visualization, 
 integrating multiple on-premises as well cloud data sources using standard, custom connectors or REST API's and publishing the dashboards to cloud service.
