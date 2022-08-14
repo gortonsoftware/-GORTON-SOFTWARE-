@@ -11,7 +11,7 @@ integrating multiple on-premises as well cloud data sources using standard, cust
 ⚡ We have in-house Full stack data analytics experts with experience in marketing analytics and eCommerce analytics.
 
 
-⚡ Hire Us Through
+⚡ Find Us @
 <a href="https://www.upwork.com/agencies/~012c21b2d3b1fe415f" target="_blank">Upwork</a>
 
 
