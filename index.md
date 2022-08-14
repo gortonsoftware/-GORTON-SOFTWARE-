@@ -1,4 +1,4 @@
-## GORTON SOFTWARE
+## ✨GORTON SOFTWARE✨
 
 ⚡ We're your all-season Data Analytics 📊 partner. 
 
