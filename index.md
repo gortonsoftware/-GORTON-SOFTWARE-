@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Gorton Software
 
-You can use the [editor on GitHub](https://github.com/gortonsoftware/Gorton/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+⚡ We're your Data Analytics partner. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+⚡ We're a Team of Data Analytics Consultants with 10+ years of industry experience working on data visualization, 
+integrating multiple on-premises as well cloud data sources using standard, custom connectors or REST API's and publishing the dashboards to cloud service.
 
-### Markdown
+⚡ We value your time and quality commitments and will take whatever steps are necessary to honor them, 
+   while the advantage of our experience helps us to pass on the benefits of competitive pricing to you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+⚡ We have in-house Full stack data analytics experts with experience in marketing analytics and eCommerce analytics.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gortonsoftware/Gorton/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="80540644" data-counter="bottom"></script>
